@@ -12,6 +12,9 @@ For now, I really don't need the entire tweet (http://www.scribd.com/doc/3014633
 Anything else I should know?
 This service will NOT download DMs - that would require OAuth integration, and I can't really be bothered.
 
+Should I be worried about you stealing my data?
+No - it's public anyway - that's the point. I'm just making it easier for you to get at it.
+
 I have a great idea / I really want more information:
 If you know how AppEngine works - go for it - you are feed to fork and conquer.
 If you want to get hold of me - I'm @hugorodgerbrown.
